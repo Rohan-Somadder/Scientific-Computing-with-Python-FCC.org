@@ -1,3 +1,6 @@
+'''
+Module for performing tests on the function add_hours
+'''
 import unittest
 from time_calculator import add_time
 
